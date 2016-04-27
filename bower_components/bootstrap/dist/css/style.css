@@ -1,0 +1,12 @@
+body{
+  margin:0;
+  padding:0;
+}
+
+.banner{
+  height: 500px;
+}
+
+.intro{
+  margin-left:20px; 
+}
